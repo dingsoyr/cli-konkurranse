@@ -1,0 +1,4 @@
+2025-12-09 10:01:23 [INFO] App started successfully
+2025-12-09 10:02:10 [INFO] User logged in: ola
+2025-12-09 10:03:45 [WARN] Slow response from database
+2025-12-09 10:04:02 [INFO] User logged out: ola

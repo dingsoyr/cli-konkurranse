@@ -1,0 +1,6 @@
+id,product,region,amount,currency
+1,Skjerm,Nord,12000,NOK
+2,Tastatur,Sør,3500,NOK
+3,Mus,Øst,1900,NOK
+4,Headset,Vest,2600,NOK
+5,Laptop,Nord,18500,NOK

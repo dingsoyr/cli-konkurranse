@@ -1,0 +1,8 @@
+Dette er ein testfil
+med fleire linjer
+som kan brukast til
+å teste wc -l.
+
+Her er ei tom linje over.
+
+Siste linje i fila.
