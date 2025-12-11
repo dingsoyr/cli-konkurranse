@@ -38,3 +38,6 @@ jq -r '.status.starter' data.json
 
 ## Oppgåve 13
 tail -n 1 data.txt
+
+## Oppgåve 14
+find . -name "*.txt"

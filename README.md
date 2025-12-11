@@ -17,7 +17,7 @@ Alle oppgåvene tek utgangspunkt i filene i dette repoet.
 2. Forutsetningar:
    - Unix-shell (macOS eller Linux)
    - Vanlege CLI-verktøy: `grep`, `find`, `wc`, `sort`, `uniq`, `tar`, `ps`, `chmod`
-   - For oppgåve 14:  
+   - For oppgåvene:  
      - `jq` **eller**
      - `python` med `python -m json.tool`
 
@@ -81,7 +81,7 @@ Endre slik at `secret.txt` berre kan lesast og skrivast av eigaren.
 ---
 
 ### Oppgåve 11: JSON-prettyprint
-Pretty-print `data.json` (på éi linje) med `jq` eller `python -m json.tool`.
+Pretty-print `data.json` med `jq` eller `python -m json.tool`.
 
 ---
 
@@ -95,3 +95,8 @@ Hent kun verdien til feltet `starter` inne i objektet `status`.
 
 ### Oppgåve 13: Vis siste linje
 Vis den **siste linja** i `data.txt`.
+
+---
+
+### Oppgåve 14: Finn filer med spesifikk endelse
+Finn alle filer med **`.txt`-endelse** i heile katalogtreet (rekursivt).
