@@ -32,3 +32,6 @@ chmod 600 secret.txt
 
 ## Oppgåve 11
 jq . data.json
+
+## Oppgåve 12
+jq -r '.status.starter' data.json
