@@ -90,3 +90,8 @@ Pretty-print `data.json` (på éi linje) med `jq` eller `python -m json.tool`.
 I `data.json` ligg det informasjon om konkurransen.
 
 Hent kun verdien til feltet `starter` inne i objektet `status`.
+
+---
+
+### Oppgåve 13: Vis siste linje
+Vis den **siste linja** i `data.txt`.
